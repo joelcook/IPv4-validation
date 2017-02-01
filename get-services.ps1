@@ -1,6 +1,5 @@
 #Joel Cook
 # PowerShell Sript to show running services
-#CNT 4603
 
 #param is for command line arg, auto default (*) value if no arg given
 param($nameReq = "*")
