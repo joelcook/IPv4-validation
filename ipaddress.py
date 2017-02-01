@@ -1,7 +1,6 @@
 '''
 @author Joel Cook
 created 11/29/2016
-CNT 4603
 '''
 
 import sys
